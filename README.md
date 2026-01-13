@@ -25,7 +25,7 @@
 
 ### 🧾 Portfolio & Writing
 
-- 🌐 Portfolio: [luxshi-portfolio.web.app](https://luxshi-portfolio.web.app/)
+- 🌐 Portfolio: [luxshi-portfolio.web.app]([https://luxshi-portfolio.netlify.app/])
 - 📝 Articles & Research: [ResearchGate Profile](https://www.researchgate.net/profile/Luxshi-Karunakaran?ev=hdr_xprf)
 
 ---
