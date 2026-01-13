@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Luxshi Karunakaran</h1>
-<h3 align="center">Frontend Developer | ML Engineer | Data Scientist | Software Engineer | Researcher from Sri Lanka</h3>
+<h3 align="center">Frontend Developer | AI/ML Engineer | Data Scientist | Software Engineer | Researcher | Lecturer from Jaffn, Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luxshikarunakaran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
