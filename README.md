@@ -16,16 +16,21 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently working on **Ransomware Detection**  
-- 🌱 Learning **React.js**, **Next.js**, and exploring cutting-edge web technologies  
-- 🤝 Open to collaboration on **Medora – Doctor Appointment Web System**  
-- 🧠 Passionate about blending software engineering with research and machine learning  
+🎓 B.Sc. (Hons) in Computer Science & Technology — First Class Honours
+
+👩‍🏫 Currently working as a Temporary Demonstrator at Sabaragamuwa University of Sri Lanka
+
+💼 Professional experience as a Data Scientist, Software Engineer, AI/ML Engineer, and Researcher, with hands-on involvement in academic and industry-oriented projects
+
+🔬 Worked on machine learning, deep learning, medical image analysis, and predictive analytics projects
+
+🛠️ Skills: Python, Machine Learning, Deep Learning, AI, Data Analysis, CNNs, Ensemble Models, TensorFlow, Keras, Scikit-learn, SQL, Git, Web Application Development
 
 ---
 
 ### 🧾 Portfolio & Writing
 
-- 🌐 Portfolio: [luxshi-portfolio.web.app]([https://luxshi-portfolio.netlify.app/])
+- 🌐 Portfolio: [luxshi-portfolio.web.app](https://luxshi-portfolio.netlify.app/)
 - 📝 Articles & Research: [ResearchGate Profile](https://www.researchgate.net/profile/Luxshi-Karunakaran?ev=hdr_xprf)
 
 ---
